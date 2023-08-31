@@ -30,11 +30,9 @@ I have been programming since 2018 and had the opportunity to work on various pr
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=najemhamo&show_icons=true&locale=en" alt="najemhamo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=najemhamo&" alt="najemhamo" /></p>
-
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=najemhamo" alt="najemhamo" /></a> </p>
 
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=najemhamo&" alt="najemhamo" /></p>
 
 <h3 align="center">Thanks for visiting my GitHub profile! 😊</h3>
 
