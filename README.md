@@ -24,15 +24,12 @@ I have been programming since 2018 and had the opportunity to work on various pr
 
 
 
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=najemhamo&show_icons=true&locale=en&layout=compact" alt="najemhamo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=najemhamo&show_icons=true&locale=en" alt="najemhamo" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=najemhamo" alt="najemhamo" /></a> </p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=najemhamo&" alt="najemhamo" /></p>
 
 <h3 align="center">Thanks for visiting my GitHub profile! 😊</h3>
 
@@ -74,4 +71,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <p align="left"> <a href="https://twitter.com/najemhamo" target="blank"><img src="https://img.shields.io/twitter/follow/najemhamo?logo=twitter&style=for-the-badge" alt="najemhamo" /></a> </p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=najemhamo&" alt="najemhamo" /></p>
 -->
