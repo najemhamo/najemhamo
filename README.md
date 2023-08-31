@@ -24,7 +24,7 @@ I have been programming since 2018 and had the opportunity to work on various pr
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=najemhamo&show_icons=true&locale=en&layout=compact" alt="najemhamo" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=najemhamo&show_icons=true&locale=en&layout=compact" alt="najemhamo" /></p>
 
 
 
