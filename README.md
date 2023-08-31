@@ -6,10 +6,11 @@ I'm a passionate software engineer who has been programming since 2018. I've had
 
 You can connect with me through the following channels:
 
-- [![Twitter](https://img.shields.io/twitter/follow/YourTwitterHandle?style=social)](https://twitter.com/YourTwitterHandle)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInProfile-blue)](https://www.linkedin.com/in/najemhamo/)
-- Discord: ![Discord](https://img.shields.io/badge/Discord-YourDiscordTag-7289DA?logo=discord&logoColor=white)
-- Instagram: ![Instagram](https://img.shields.io/badge/Instagram-YourInstagramUsername-E4405F?logo=instagram&logoColor=white)
+- [![Twitter](https://img.shields.io/twitter/follow/FollowMe?style=social)](https://twitter.com/najemhamo)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-MyProfile-blue)](https://www.linkedin.com/in/najemhamo/)
+- [![Discord](https://img.shields.io/badge/Discord-YourDiscordTag-7289DA?logo=discord&logoColor=white)](discordapp.com/users/321700640541638657)
+- [![Instagram](https://img.shields.io/badge/Instagram-PersonalAccount-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/najem.hamo/)
+- [![Instagram](https://img.shields.io/badge/Instagram-PhotographyAccount-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/najemedia/)
 - Email: najem.hamo@gmail.com
 
 Feel free to reach out if you have any questions, want to collaborate on a project, or just want to chat!
