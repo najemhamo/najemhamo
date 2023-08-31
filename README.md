@@ -1,5 +1,5 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=najemhamo&label=Profile%20views&color=0e75b6&style=flat" alt="najemhamo" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=najemhamo&label=Profile%20views&color=0e75b6&style=flat" alt="najemhamo" /> </p>
 
 <h1 align="center">Hi 👋, I'm Najem</h1>
 <h3 align="center">A passionate software engineer</h3>
@@ -26,7 +26,7 @@ I have been programming since 2018 and had the opportunity to work on various pr
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=najemhamo&show_icons=true&locale=en&layout=compact" alt="najemhamo" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=najemhamo&show_icons=true&locale=en&layout=compact" alt="najemhamo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=najemhamo&show_icons=true&locale=en" alt="najemhamo" /></p>
 
